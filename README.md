@@ -82,7 +82,4 @@ The design focuses on clarity, consistency, and ease of use.
 - **CSV / Excel** – Source data format
   
 ## 🔗 Dashboard Link
-<img width="1280" height="720" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/afe0a68e-7e1e-4530-a761-e2f2e59074ea" />
-
-
-- Power BI Service / PBIX file / Drive link  
+<img width="1280" height="720" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/afe0a68e-7e1e-4530-a761-e2f2e59074ea" /> 
